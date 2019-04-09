@@ -1,0 +1,9 @@
+==============≤‚ ‘Ω·ππÃÂ==============
+	struct jingchen_type neicun[20];
+    int shumu=0,iguaqi=0,flag=0;
+	for(int j=0;j<20;j++)
+	{
+		neicun[j].pid =j;
+		printf("/n  pid=%d",neicun[j].pid);
+
+	}
